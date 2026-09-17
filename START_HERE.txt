@@ -1,0 +1,12 @@
+ORVIAA — OFFLINE 3D PRESENTATION
+1. Extract this ZIP on a Windows or Mac laptop.
+2. Open ORVIAA_Offline_3D.html in Chrome or Edge (right-click > Open with).
+3. Scroll to control the fruit, cap, twist and powder sequence. Use Chapters or arrow keys to navigate the 24 scenes. Use the fullscreen button to present.
+4. Sound is optional: click Sound once to enable it. Immersive enables pointer movement around the product.
+5. Turn Wi-Fi off and reopen the HTML before your event to check your actual laptop and projector.
+
+Only the HTML file is needed to play the presentation. All code, images and 3D assets are inside it. Copy it to a USB drive or send the ZIP to your teacher.
+
+A phone/tablet Files preview or an email preview may not run JavaScript or WebGL. Use a full desktop browser for the confirmed workflow. Device graphics capabilities affect speed. No online account, installation or local web server is required for the desktop workflow.
+
+PowerPoint is a separate companion format. This HTML is the interactive 3D version.

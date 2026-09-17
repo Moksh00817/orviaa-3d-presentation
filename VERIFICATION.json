@@ -1,0 +1,45 @@
+{
+  "fileProtocol": true,
+  "networkDisabled": true,
+  "networkAttempts": [],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "baseline": {
+    "count": 24,
+    "graphics": {
+      "drawCalls": 20,
+      "triangles": 17610,
+      "geometryCount": 13,
+      "pixelRatio": 1
+    },
+    "offline": {
+      "version": 1,
+      "sourceVersion": 3,
+      "networkRequired": false
+    },
+    "images": false,
+    "fallback": false
+  },
+  "release": {
+    "phase": "Powder, released",
+    "graphics": {
+      "drawCalls": 28,
+      "triangles": 37490,
+      "geometryCount": 29,
+      "pixelRatio": 1
+    }
+  },
+  "controls": {
+    "immersive": "true",
+    "sound": "true",
+    "chapterLinks": 24,
+    "navigation": 4,
+    "motionOff": "true"
+  },
+  "tabletLayout": {
+    "overflow": false,
+    "canvas": 1180
+  },
+  "headlessInitialLoadMs": 1491,
+  "scope": "Chromium with software WebGL; not a physical-device performance guarantee"
+}
